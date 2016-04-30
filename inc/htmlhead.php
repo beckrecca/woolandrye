@@ -1,7 +1,11 @@
       <meta charset="utf-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel='shortcut icon' href='img/logo/walrus.ico' type='image/x-icon'/ >
       <link rel="stylesheet" href="css/styles.css" />
+
+      <!-- JQuery -->
       <script type="text/javascript" src="js/jquery-1.12.2.min.js"> </script>
+
       <script type="text/javascript" src="js/custom.js"> </script>
 
       <!-- Fancybox -->
