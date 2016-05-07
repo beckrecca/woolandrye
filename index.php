@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
    <head>
-      <title>Wool&Rye Welcome</title>
+      <title>Wool&Rye</title>
       <?php include("inc/htmlhead.php"); ?>
    </head>
    <body id="home">
