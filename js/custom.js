@@ -4,6 +4,11 @@ window.onload = function() {
 		$("#wares-nav").fadeToggle();
 	})
 
+	// Toggle the contact nav menu display
+	$("#contact-link").click(function () {
+		$("#contact-nav").fadeToggle();
+	})
+
 	/** Below we will make sure the correct current
 		menu item is highlighted pink. **/
 	// Get the current body id

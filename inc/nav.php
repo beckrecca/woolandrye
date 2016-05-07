@@ -9,6 +9,12 @@
             </ul>
           </li>
           <li><a href="#" id="shop-link">Shop</a></li>
-          <li><a href="contact.php" id="contact-link">Contact</a></li>
+          <li><a href="#" id="contact-link">Contact</a>
+            <ul id="contact-nav">
+              <li><a href="#">Email</a></li>
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Instagram</a></li>
+            </ul>
+          </li>
         </ul>
       </nav>

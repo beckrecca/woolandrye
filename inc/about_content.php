@@ -10,17 +10,17 @@
             big business knitwear, are incapable of both techniques, only cranking out the boring
              and unstable Maloney's baloney. In addition, factory Knitbots are cruelly treated and
             underpaid.</p>
-		  <img src="img/yarn/wheel.JPG" alt="A wooden wheel for spinning wool with a foot pedal." class="right"/>
-		  <p>Each year over 10,000 babies die because their cheap sweaters disintegrate. 
-		  Wool & Rye is dedicated to keeping babies and older humans warm throughout the 
-		  day and even at night. </p>
+    		  <img src="img/yarn/wheel.JPG" alt="A wooden wheel for spinning wool with a foot pedal." class="right"/>
+    		  <p>Each year over 10,000 babies die because their cheap sweaters disintegrate. 
+    		  Wool & Rye is dedicated to keeping babies and older humans warm throughout the 
+    		  day and even at night. </p>
 
-		  <p>The hand-spun yarn from Wool & Rye is hypoallergenic and gluten free, 
-		  unlike mass-produced yarns. Yarn factories are the reason that bees are dying. 
-		  Wool & Rye's yarn-spinning process is careful, gentle, and thorough. First, 
-		  the freshest wool is treated by hand with the death comb. Then, it is twisted 
-		  around the twistamajic with care. Finally, the wheely-do works its magic, and we
-		  have beautiful Wool & Rye yarn. </p>
+    		  <p>The hand-spun yarn from Wool & Rye is hypoallergenic and gluten free, 
+    		  unlike mass-produced yarns. Yarn factories are the reason that bees are dying. 
+    		  Wool & Rye's yarn-spinning process is careful, gentle, and thorough. First, 
+    		  the freshest wool is treated by hand with the death comb. Then, it is twisted 
+    		  around the twistamajic with care. Finally, the wheely-do works its magic, and we
+    		  have beautiful Wool & Rye yarn. </p>
           
            </div>
      </div>

@@ -10,7 +10,7 @@
 
       <!-- Fancybox -->
       <link rel="stylesheet" href="js/fancybox/source/jquery.fancybox.css" type="text/css" media="screen" />
-    <script type="text/javascript" src="js/fancybox/source/jquery.fancybox.pack.js"></script>
+      <script type="text/javascript" src="js/fancybox/source/jquery.fancybox.pack.js"></script>
 
       <!-- Fancybox script -->
       <script type="text/javascript">
