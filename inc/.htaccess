@@ -1,0 +1,11 @@
+ErrorDocument 404 /404.php
+ExpiresByType text/css "now plus 7 days"
+ExpiresByType text/javascript "now plus 7 days"
+ExpiresByType application/javascript "now plus 7 days"
+ExpiresByType image/gif "now plus 7 days"
+ExpiresByType image/jpeg "now plus 7 days"
+ExpiresByType image/png "now plus 7 days"
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE text/javascript
+AddOutputFilterByType DEFLATE application/javascript
