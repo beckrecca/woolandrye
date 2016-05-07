@@ -2,8 +2,25 @@
         <div class="blurb">
           <h1>About</h1>
           <img src="img/clothing/pile.JPG" alt="A pile of folded knitted clothing, including green socks, an orange hat, purple mittens, a purple pom-pom hat, a grey sweater, a purple shawl, and a rainbow striped long scarf." class="left"/>
-          <p>A squirrel makes belief dreamily before bedtime. The muffin man squawks peacefully. The enormous shoe saw the candlestick maker quietly. Two best friends thank my sister's new shoes. All the rabbits counts a juicy hamburger jovially through the brilliant sky. The baker teach panda bears dreamily. A meatball rolls. A puggle greet a happy bird peacefully. Seven hamsters befriended a meatball in the tub. Two best friends dreams. A meatball pretended. The baker play exquisitely along the road. My little brother's pet cactus sits my mittens.</p>
-          <img src="img/yarn/wheel.JPG" alt="A wooden wheel for spinning wool with a foot pedal." class="right"/>
-          <p>The lazy egg yolk pat my sister's new shoes smoothly. A little frog burp. The puppy's floppy ears pat two best friends into the river. A meatball befriended a kitty's pink nose slowly. Sentient pancakes illuminated seven hamsters up the mountain. The baker befriended a juicy hamburger adorably. My sister's new shoes dozes cheerfully in the garden. A bunch of raspberries create cheerfully. Two best friends thought wonderfully. A squirrel commend the sheep never. The lollipop princess admires free stuff.</p>
-        </div>
+          <p>Wool & Rye started in 2013 when Christina Doris realized she needed something to do 
+          with her hands besides scratching her butt. She produces quality items using only the finest
+           wool from Finnish Goldbull sheep who feed on a strict diet of mashed corn, buttercup stems, 
+           and boiled sweet potatoes. Her favorite knitting techniques are the wild mountain man square
+            dance and the crossing guard's grudge. Factory Knitbots, who produce the majority of 
+            big business knitwear, are incapable of both techniques, only cranking out the boring
+             and unstable Maloney's baloney. In addition, factory Knitbots are cruelly treated and
+            underpaid.</p>
+		  <img src="img/yarn/wheel.JPG" alt="A wooden wheel for spinning wool with a foot pedal." class="right"/>
+		  <p>Each year over 10,000 babies die because their cheap sweaters disintegrate. 
+		  Wool & Rye is dedicated to keeping babies and older humans warm throughout the 
+		  day and even at night. </p>
+
+		  <p>The hand-spun yarn from Wool & Rye is hypoallergenic and gluten free, 
+		  unlike mass-produced yarns. Yarn factories are the reason that bees are dying. 
+		  Wool & Rye's yarn-spinning process is careful, gentle, and thorough. First, 
+		  the freshest wool is treated by hand with the death comb. Then, it is twisted 
+		  around the twistamajic with care. Finally, the wheely-do works its magic, and we
+		  have beautiful Wool & Rye yarn. </p>
+          
+           </div>
      </div>
