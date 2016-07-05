@@ -6,6 +6,8 @@ img {
 body {
     font-family: Verdana, Helvetica, Arial, sans-serif;
     margin: 0;
+    background-image: url(../img/transparent-bg.jpg); 
+    background-repeat: repeat;
 }
 
 a, a:visited {
@@ -74,7 +76,7 @@ img.right {
         width: 86%;
     }
     #home-img {
-        border: 1px dotted #eee;
+        border: 1px dotted #aaa;
     }
 }
 @media only screen and (min-width: 920px) {

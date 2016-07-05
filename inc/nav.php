@@ -11,7 +11,7 @@
           <li><a href="http://woolandrye.etsy.com" id="shop-link">Shop</a></li>
           <li><a href="#" id="contact-link">Contact</a>
             <ul id="contact-nav">
-              <li><a href="mailto:contact@woolandrye.com">Email</a></li>
+              <li><a href="mailto:cdbr7810@yahoo.com">Email</a></li>
               <li><a href="https://www.facebook.com/woolandrye">Facebook</a></li>
             </ul>
           </li>
